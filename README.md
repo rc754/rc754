@@ -41,15 +41,9 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png"> </code>
   <code> <img height="50" src="https://user-images.githubusercontent.com/61707225/129361542-701de23c-870f-4ed7-b96b-5f4d4b57e9e0.PNG"> </code>
   <code> <img height="50" src="https://user-images.githubusercontent.com/61707225/129361955-d4f3a773-73af-4276-aabf-bb7648366412.PNG"> </code>
-  <code> <img height="50" src="https://user-images.githubusercontent.com/61707225/129362628-ce9bc7f3-0064-47ea-9a69-9f055eaeee09.PNG"> </code>
+  <code> <img height="40" src="https://user-images.githubusercontent.com/61707225/129362628-ce9bc7f3-0064-47ea-9a69-9f055eaeee09.PNG"> </code>
  
   <hr>
-<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Jupyter Notebook" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="MS SQL Server" width="60px" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" />
-<img align="left" alt="SHell Scripting" width="40px" src="https://user-images.githubusercontent.com/61707225/129361542-701de23c-870f-4ed7-b96b-5f4d4b57e9e0.PNG" />
-<img align="left" alt="Power BI " width="50px" src="https://user-images.githubusercontent.com/61707225/129361955-d4f3a773-73af-4276-aabf-bb7648366412.PNG" />
-<img align="bottom" alt="R studio" width="60px" src="https://user-images.githubusercontent.com/61707225/129362628-ce9bc7f3-0064-47ea-9a69-9f055eaeee09.PNG" />
+
 
 </br>
