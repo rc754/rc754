@@ -9,13 +9,13 @@
 ### Welcome to my github profile! &nbsp;
 
 
-I am a recent graduate from Shiv Nadar University, with a major in Electronics and Communication Engineering, and a minor in Data Analytics.
+I am a recent graduate from Shiv Nadar University, with a major in Electronics and Communication Engineering, and a minor in Data Analytics. Deeply passionate about the field of Big Data, I like to spend my time reading or contemplating about the nuances of this field.
 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 <!--
 **rc754/rc754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-
 Here are some ideas to get you started:
 - 🔭 I’m currently working on  **Competitive Programming**c
 - 🔭 I’m currently working on 
@@ -27,3 +27,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨🏻‍💻 I’m currently working on a Disaster Recovery Tool for HP Inc.;
+- 🚀 I’m currently learning SAS Visual Business Analytics and Power BI;
+- 🌱 Other interests include Artificial Intelligence, Machine Learning and IOT;
+
+
+</br>
