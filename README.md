@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Jupyter Notebook" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="MS SQL Server" width="50px" src="https://www.pngitem.com/middle/ihxwTxb_sql-database-icon-png-transparent-png/" />
+<img align="left" alt="MS SQL Server" width="50px" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" />
 </br>
