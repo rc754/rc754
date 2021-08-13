@@ -43,7 +43,6 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://user-images.githubusercontent.com/61707225/129361955-d4f3a773-73af-4276-aabf-bb7648366412.PNG"> </code>
   <code> <img height="40" src="https://user-images.githubusercontent.com/61707225/129362628-ce9bc7f3-0064-47ea-9a69-9f055eaeee09.PNG"> </code>
  
-  <hr>
 
 
 </br>
