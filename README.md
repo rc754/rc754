@@ -9,7 +9,7 @@
 ### Welcome to my github profile! &nbsp;
 
 
-I am a recent graduate from Shiv Nadar University, with a major in Electronics and Communication Engineering, and a minor in Data Analytics. Deeply passionate about the field of Big Data, I like to spend my time reading or contemplating about the nuances of this field.
+I am a recent graduate from Shiv Nadar University, with a major in Electronics and Communication Engineering, and a minor in Data Analytics. Deeply passionate about the field of Big Data, and I like to spend my time reading or contemplating about the nuances of this field.
 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
@@ -35,4 +35,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Jupyter Notebook" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="MS SQL Server" width="50px" src="https://www.pngitem.com/middle/ihxwTxb_sql-database-icon-png-transparent-png/" />
 </br>
