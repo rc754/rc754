@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 I’m currently working on a Disaster Recovery Tool for HP Inc.;
-- 🚀 I’m currently learning SAS Visual Business Analytics and Power BI;
-- 🌱 Other interests include Artificial Intelligence, Machine Learning and IOT;
+- 👨🏻‍💻 I’m currently working on a Disaster Recovery Tool for HP Inc.
+- 🚀 I’m currently learning SAS Visual Business Analytics and Power BI
+- 🌱 Other interests include Artificial Intelligence, Machine Learning and IOT
 
+### Languages and Tools:
 
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </br>
