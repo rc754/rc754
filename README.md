@@ -44,6 +44,6 @@ Here are some ideas to get you started:
   <code> <img height="40" src="https://user-images.githubusercontent.com/61707225/129362628-ce9bc7f3-0064-47ea-9a69-9f055eaeee09.PNG"> </code>
   <code> <img height="40" src="https://user-images.githubusercontent.com/61707225/129364793-1b56f6de-196f-4f6a-8598-4a276101dd8d.PNG"> </code>
   <code> <img height="40" src="https://user-images.githubusercontent.com/61707225/129365633-e22db07f-a942-42b6-a7bf-e66d564ebc9b.PNG"> </code>
-  <code> <img height="40" src="https://user-images.githubusercontent.com/61707225/129366175-5d2087ce-4118-490f-ab0c-fb05319dcd9e.PNG"> </code>
+  <code> <img height="40" src="https://user-images.githubusercontent.com/61707225/129366411-9e635e1f-caae-40ec-86c2-042a380ca133.PNG"> </code>
 
 </br>
