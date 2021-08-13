@@ -9,7 +9,7 @@
 ### Welcome to my github profile! &nbsp;
 
 
-I am a recent graduate from Shiv Nadar University, with a major in Electronics and communication Engineering, and a minor in Data Analytics.
+I am a recent graduate from Shiv Nadar University, with a major in Electronics and Communication Engineering, and a minor in Data Analytics.
 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
