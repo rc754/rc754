@@ -53,7 +53,7 @@ Here are some ideas to get you started:
  <summary> ✇ <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=rc754&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=37">
+  <img src = "https://github-readme-stats.vercel.app/api?username=rc754&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rc754&langs_count=8&hide=Python,CSS&theme=tokyonight">
 </p>
 </details>
