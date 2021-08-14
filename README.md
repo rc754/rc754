@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishika-chaudhary-7b97861aa/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rishikachaudhary)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rishikachaudhary/)
-
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/rishika.chaudhary.12)
 ### Welcome to my github profile! &nbsp;
 
 
