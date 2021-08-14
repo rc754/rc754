@@ -48,3 +48,12 @@ Here are some ideas to get you started:
   <code> <img height="48" width="45" src="https://user-images.githubusercontent.com/61707225/129445710-fa1cac5f-5b5e-4af2-aed9-ea596e5df7ea.PNG"> </code>
   <code> <img height="45" src="https://user-images.githubusercontent.com/61707225/129445856-811d7592-eccd-4749-bced-f3d1a01bd6d7.PNG"> </code>
 </br>
+
+<details open>
+ <summary> ✇ <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=rc754&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rc754&hide=TeX,HTML,Makefile,C&theme=tokyonight&langs_count=3">
+</p>
+</details>
