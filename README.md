@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </br>
 
 <details open>
- <summary> ✇ <b>My Github Stats</b>: </summary>
+ <summary>  <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rc754&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=40">
