@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> </code>
-  <code> <img height="50" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png"> </code>
+  <code> <img height="50" src="(https://user-images.githubusercontent.com/61707225/129905605-eaf8b41b-6d15-48cf-86cc-6a858b99ca73.PNG"> </code>
   <code> <img height="50" src="https://user-images.githubusercontent.com/61707225/129361542-701de23c-870f-4ed7-b96b-5f4d4b57e9e0.PNG"> </code>
   <code> <img height="50" src="https://user-images.githubusercontent.com/61707225/129361955-d4f3a773-73af-4276-aabf-bb7648366412.PNG"> </code>
   <code> <img height="40" src="https://user-images.githubusercontent.com/61707225/129362628-ce9bc7f3-0064-47ea-9a69-9f055eaeee09.PNG"> </code>
