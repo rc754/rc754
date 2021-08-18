@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <code> <img height="46" width="55" src="https://user-images.githubusercontent.com/61707225/129362628-ce9bc7f3-0064-47ea-9a69-9f055eaeee09.PNG"> </code>
   <code> <img height="40" src="https://user-images.githubusercontent.com/61707225/129364793-1b56f6de-196f-4f6a-8598-4a276101dd8d.PNG"> </code>
   <code> <img height="40" src="https://user-images.githubusercontent.com/61707225/129365633-e22db07f-a942-42b6-a7bf-e66d564ebc9b.PNG"> </code>
-  <code> <img height="45" src="https://user-images.githubusercontent.com/61707225/129366560-b7385227-1a05-48d3-9624-7629749c9e48.PNG"> </code>
+  <code> <img height="45" width="45" src="https://user-images.githubusercontent.com/61707225/129366560-b7385227-1a05-48d3-9624-7629749c9e48.PNG"> </code>
   <code> <img height="48" width="43" src="https://user-images.githubusercontent.com/61707225/129445710-fa1cac5f-5b5e-4af2-aed9-ea596e5df7ea.PNG"> </code>
   <code> <img height="45" width="45" src="https://user-images.githubusercontent.com/61707225/129445856-811d7592-eccd-4749-bced-f3d1a01bd6d7.PNG"> </code>
 </br>
