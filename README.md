@@ -49,11 +49,11 @@ Here are some ideas to get you started:
   <code> <img height="45" src="https://user-images.githubusercontent.com/61707225/129445856-811d7592-eccd-4749-bced-f3d1a01bd6d7.PNG"> </code>
 </br>
 
-<details open>
- <summary>  <b>My Github Stats</b>: </summary>
+<details>
+  <summary>  <b>My Github Stats:</b> </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=rc754&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rc754&langs_count=8&hide=Python,CSS&theme=tokyonight">
+<img src = "https://github-readme-stats.vercel.app/api?username=rc754&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=40">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rc754&langs_count=8&hide=Python,CSS&theme=tokyonight">
 </p>
 </details>
