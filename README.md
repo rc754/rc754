@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <br>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55px"></span>&nbsp;
   <span><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="50px"/></span>&nbsp;
-  <span><img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="elastic" width="50px"/></span>&nbsp;
+  <span><img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="elastic" width="45px"/></span>&nbsp;
   <span><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="elastic" width="50px"/></span>&nbsp;
   <span><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50px"/></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"></span>&nbsp;
