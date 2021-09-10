@@ -35,25 +35,23 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 <p align="left">
   
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> </code>
-  <code> <img height="50" src="https://user-images.githubusercontent.com/61707225/129905605-eaf8b41b-6d15-48cf-86cc-6a858b99ca73.PNG"> </code>
-  <code> <img height="50" src="https://user-images.githubusercontent.com/61707225/129361542-701de23c-870f-4ed7-b96b-5f4d4b57e9e0.PNG"> </code>
-  <code> <img height="50" src="https://user-images.githubusercontent.com/61707225/129361955-d4f3a773-73af-4276-aabf-bb7648366412.PNG"> </code>
-  <code> <img height="46" width="55" src="https://user-images.githubusercontent.com/61707225/129362628-ce9bc7f3-0064-47ea-9a69-9f055eaeee09.PNG"> </code>
-  <code> <img height="40" src="https://user-images.githubusercontent.com/61707225/129364793-1b56f6de-196f-4f6a-8598-4a276101dd8d.PNG"> </code>
-  <code> <img height="40" src="https://user-images.githubusercontent.com/61707225/129365633-e22db07f-a942-42b6-a7bf-e66d564ebc9b.PNG"> </code>
-  <code> <img height="45" width="45" src="https://user-images.githubusercontent.com/61707225/129366560-b7385227-1a05-48d3-9624-7629749c9e48.PNG"> </code>
-  <code> <img height="48" width="43" src="https://user-images.githubusercontent.com/61707225/129445710-fa1cac5f-5b5e-4af2-aed9-ea596e5df7ea.PNG"> </code>
-  <code> <img height="45" width="45" src="https://user-images.githubusercontent.com/61707225/129445856-811d7592-eccd-4749-bced-f3d1a01bd6d7.PNG"> </code>
-</br>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50px"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50px"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50px"></span>&nbsp;
+  <span><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="65px"></span>&nbsp;
+  <br>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55px"></span>&nbsp;
+  <span><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="50px"/></span>&nbsp;
+  <span><img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="elastic" width="50px"/></span>&nbsp;
+  <span><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="elastic" width="50px"/></span>&nbsp;
+  <span><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50px"/></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"></span>&nbsp;
 
-<details>
-  <summary>  <b>My Github Stats:</b> </summary>
+### My Github Stats:
 <br>
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=rc754&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=40">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rc754&langs_count=8&hide=Python,CSS&theme=tokyonight">
+<img src = "https://github-readme-stats.vercel.app/api?username=rc754&show_icons=true&include_all_commits=true&count_private=true&line_height=40">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rc754">
 </p>
-</details>
