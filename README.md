@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 ### My Github Stats:
 <br>
 <p align = "center">
-<img height = "275rem" src = "https://github-readme-stats.vercel.app/api?username=rc754&show_icons=true&include_all_commits=true&count_private=true&line_height=40">
-<img height = "275rem" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rc754">
+<img height = "250rem" src = "https://github-readme-stats.vercel.app/api?username=rc754&show_icons=true&include_all_commits=true&count_private=true&line_height=40">
+<img height = "250rem" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rc754">
 </p>
