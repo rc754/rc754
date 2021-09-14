@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 I’m currently working on a Disaster Recovery Tool for HP Inc.
 - 🚀 I’m currently learning SAS Visual Business Analytics and Power BI
 - 🌱 Other interests include Artificial Intelligence, Machine Learning and IOT
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/19lCCwkSt2tYipam51zYwgDcS-Fpj1-Bd/view?usp=sharing).
+
 
 ### Languages and Tools:
 <p align="left">
