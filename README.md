@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 I’m currently working on a Global Design Environment for HP Inc.
+- 👨🏻‍💻 I’m currently working as an IT Engineer at HP Inc.
 - 🚀 I’m currently learning  Java, Amazon Web Services, and Power BI.
 - 🌱 Other interests include Artificial Intelligence, Machine Learning and IOT.
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/19lCCwkSt2tYipam51zYwgDcS-Fpj1-Bd/view?usp=sharing).
