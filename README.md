@@ -9,7 +9,7 @@
 ### Welcome to my github profile! &nbsp;
 
 
-I am a recent graduate from Shiv Nadar University, with a major in Electronics and Communication Engineering, and a minor in Data Analytics. Deeply passionate about the field of Big Data, and I like to spend my time reading or contemplating about the nuances of this field.
+I am a recent graduate from Shiv Nadar University, with a major in Electronics and Communication Engineering, and a minor in Big Data Analytics. Deeply passionate about the field of Big Data, and I like to spend my time reading or contemplating about the nuances of this field.
 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 I’m currently working as an IT Engineer at HP Inc.
-- 🚀 I’m currently learning  Java, Amazon Web Services, and Power BI.
-- 🌱 Other interests include Artificial Intelligence, Machine Learning and IOT.
+- 👨🏻‍💻 I’m currently pursuing MS in Business Analytics at UC Davis.
+- 🚀 I worked at HP Inc for 17 montha as an IT Engineer.
+- 🌱 My interests include Artificial Intelligence, Machine Learning and IOT.
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/19lCCwkSt2tYipam51zYwgDcS-Fpj1-Bd/view?usp=sharing).
 
 
