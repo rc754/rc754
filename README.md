@@ -2,7 +2,7 @@
 
 ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Rishika Chaudhary</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishika-chaudhary-7b97861aa/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishikachaudhary21/)
 <!-- [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rishikachaudhary)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rishikachaudhary/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/rishika.chaudhary.12) -->
