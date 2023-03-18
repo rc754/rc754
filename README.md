@@ -8,8 +8,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/rishika.chaudhary.12) -->
 ### Welcome to my github profile! &nbsp;
 
-
-I am a recent graduate from Shiv Nadar University, with a major in Electronics and Communication Engineering, and a minor in Big Data Analytics. Deeply passionate about the field of Big Data, and I like to spend my time reading or contemplating about the nuances of this field.
+Motivated and detail oriented MSBA candidate with a year of experience in IT engineering and a strong background in statistics and computing. Deeply passionate about the field of Big Data with a penchant for visualizing large datasets.
 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 I’m currently pursuing MS in Business Analytics at UC Davis.
 - 🚀 I worked at HP Inc for 17 months as an IT Engineer.
 - 🌱 My interests include Artificial Intelligence, Machine Learning and Big Data Technology.
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/19lCCwkSt2tYipam51zYwgDcS-Fpj1-Bd/view?usp=sharing).
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1zFkmUsKUzfo9MfWkD1UNINvkcKxb98k1/view?usp=sharing).
 
 
 ### Languages and Tools:
