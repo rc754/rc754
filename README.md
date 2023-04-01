@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 I’m currently pursuing MS in Business Analytics at UC Davis.
 - 🚀 I worked at HP Inc for 17 months as an IT Engineer.
 - 🌱 My interests include Artificial Intelligence, Machine Learning and Big Data Technology.
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1zFkmUsKUzfo9MfWkD1UNINvkcKxb98k1/view?usp=sharing).
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1n9ADb3ZobTQgByLaHxTPzBg_kf8RsuHS/view?usp=sharing).
 
 
 ### Languages and Tools:
