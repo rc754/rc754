@@ -8,8 +8,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/rishika.chaudhary.12) -->
 ### Welcome to my github profile! &nbsp;
 
-Motivated and detail oriented MSBA candidate with a year of experience in IT engineering and a strong background in statistics and computing. Deeply passionate about the field of Big Data with a penchant for visualizing large datasets.
-
+With over 2.5 years of industry experience in data analytics, I specialize in using data to drive strategy and growth. Currently, I work at an e-commerce company, where I support the growth vertical by providing actionable insights through data analysis. Master’s in Business Analytics graduate from UC Davis with strong statistical and computing background.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 <!--
